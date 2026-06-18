@@ -1,0 +1,1 @@
+console.log("Add product model release v1.1.0")
